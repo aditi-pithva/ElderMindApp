@@ -32,8 +32,6 @@ To study the role of geriatric depression in mimicking or masking cognitive diso
 
 ### Data Sources
 - **ADNI Dataset** ([ADNI](https://adni.loni.usc.edu/))
-- **OASIS-3** ([OASIS Brains](https://www.oasis-brains.org/))
-- **EMOTHAW Dataset** ([arXiv](https://arxiv.org/abs/2202.12245))
 
 ---
 
