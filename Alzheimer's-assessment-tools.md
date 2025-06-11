@@ -49,5 +49,3 @@ The Standardized Mini-Mental State Examination (SMMSE) is a widely used brief co
 ### **Reference:**
 
 * [BC Guidelines: Cognitive Impairment \- SMMSE](https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/bc-guidelines/cogimp-smmse.pdf)
-
-These tools are valuable resources for healthcare professionals in the initial assessment and monitoring of cognitive decline.
