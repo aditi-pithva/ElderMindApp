@@ -1,0 +1,95 @@
+{
+  "demographics_features": {
+    "age_features": ["NACCAGE"],
+    "gender_features": ["SEX"],
+    "language_features": ["PRIMLANG"],
+    "handedness_features": ["HANDED"]
+  },
+  "medical_history_features": {
+    "cardiovascular": [
+      "HYPERTEN", "HXHYPER", "HYPERT",
+      "NACCAHTN",
+      "CVHATT",
+      "HATTMULT",
+      "DIABET",
+      "DIABETES",
+      "DIABTYPE",
+      "NACCDBMD",
+      "CBSTROKE",
+      "STROKMUL"
+    ],
+    "neurological": [
+      "TBI", "TBIBRIEF", "TRAUMBRF", "TBIEXTEN", "TRAUMEXT",
+      "SEIZURES",
+      "APNEA",
+      "RBD",
+      "INSOMN",
+      "OTHSLEEP"
+    ],
+    "other_medical": [
+      "CVAFIB",
+      "CVCHF",
+      "CVANGINA",
+      "CVPACDEF",
+      "CVBYPASS",
+      "CVOTHR",
+      "B12DEF",
+      "THYROID",
+      "HYPERCHO"
+    ]
+  },
+  "cognitive_concerns_features": {
+    "memory_concerns": ["MEMORY", "MEMPROB", "ORIENT"],
+    "executive_concerns": ["JUDGMENT"],
+    "language_concerns": ["COMMUN"],
+    "household_concerns": ["HOMEHOBB"],
+    "personal_care_concerns": ["PERSCARE"]
+  },
+  "functional_features": {
+    "faq_items": [
+      "BILLS",
+      "TAXES",
+      "SHOPPING",
+      "GAMES",
+      "STOVE",
+      "MEALPREP",
+      "EVENTS",
+      "PAYATTN",
+      "REMDATES",
+      "TRAVEL"
+    ]
+  },
+  "behavioral_features": {
+    "npi_symptoms": [
+      "DEL", "DELSEV",
+      "DISINHIB", "DISNSEV",
+      "IRR", "IRRSEV",
+      "ELAT", "ELATSEV",
+      "ANX", "ANXSEV",
+      "DEPD", "DEPDSEV",
+      "APA", "APASEV",
+      "HALLUC", "HALLSEV",
+      "AGIT", "AGITSEV",
+      "APP", "APPSEV",
+      "NITE", "NITESEV"
+    ]
+  },
+  "physical_features": {
+    "motor_symptoms": [
+      "MOGAIT",
+      "MOFALLS",
+      "MOTREM",
+      "MOSLOW"
+    ]
+  },
+  "family_history_features": {
+    "family_dementia": [
+      "NACCFAM",
+      "FADMUT",
+      "FADMUTX",
+      "FADMAGE",
+      "FAADREL",
+      "FAAGE"
+    ]
+  }
+}
