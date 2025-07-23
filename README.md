@@ -10,7 +10,7 @@ This project aims to build an AI-powered early detection system for cognitive de
 
 ---
 
-## Data Sources
+## Focus Tests
 - **MMSE & SMMSE**: Standardized 30-question cognitive assessments. ([MMSE](https://cgatoolkit.ca/Uploads/ContentDocuments/MMSE.pdf))
 - **Clock Drawing Test (CDT)**: Assesses executive and visuospatial skills. ([Dataset](https://arxiv.org/abs/1606.07163))
 - **Rey Auditory Verbal Learning Test (RAVLT)**: Evaluates verbal memory. ([Dataset](https://repository.niddk.nih.gov/media/studies/look-ahead/Forms/Look_AHEAD_Cognitive_Function/CF1_Rey%20Auditory%20Verbal%20Learning%20Test%20(AVLT).pdf))
