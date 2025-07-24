@@ -20,23 +20,6 @@ This project aims to build an AI-powered early detection system for cognitive de
 
 ---
 
-## Android App for Gamified Cognitive Testing
-- Gamified interfaces for MMSE, CDT, RAVLT, GDS, NPI, and more
-- Tasks include:
-  - Clock drawing (touch/stylus)
-  - Trail-making puzzles
-  - Word recall games
-  - Category naming with timers
-- Data captured:
-  - Time to complete, number of errors, accuracy
-  - Stroke patterns, hesitation points, response times
-  - Engagement metrics (retries, consistency)
-- Features:
-  - Large buttons, voice prompts, animated feedback
-  - Logs interactions for behavioral analysis
-
----
-
 ## Data Collection & Processing
 - Combine test scores, clinical metadata, and behavioral metrics
 - Parse medical records using NLP
