@@ -1,52 +1,58 @@
-## Section 1: Basic Demographics & Background
+## Section 1: Basic Demographics
 
 ### Essential Questions:
   - Age (numerical input)
   - Gender (dropdown: Male/Female)
   - Primary language spoken (dropdown)
-  - Handedness (Left/Right/Ambidextrous)
+  - Race (dropdown)
+  - Years of Education (0-36)
 
-## Section 2: Medical History 
 
-### Cardiovascular Risk Factors:
-  - "Have you ever been diagnosed with high blood pressure?" (Yes/No)
-    -	If Yes: Are you taking any medication? (Yes/ No)
-  - "Have you ever had a heart attack?" (Once/ More than once/ Never)
-  - "Do you have diabetes?" (Yes (Type 1)/ Yes (Type 2)/ Yes (Other Type)/ Pre-diabetic /No)
-    -	If yes/pre-diabetic: are you taking any medication? (Yes/ No)
-  -	"Have you ever had a stroke or mini-stroke?" (Once/ More than once/ No)
+## Section 2: Medical 
+  - Are you a heavy smoker?
+  - Do you drink alcohol frequently?
+  - Is your hearing functioning properly? If not, do you use a hearing aid?
+  - Is your vision functioning properly? If not, do you wear corrective lenses?
+  - Please fill in the following details using a standard measuring device:
+      - Blood Pressure (systolic and diastolic)
+      - Heart Rate
+      - BMI
+  - Have you had any of the following conditions or undergone the following procedures?
+      - Heart Attack
+      - Congestive heart failure
+      - Cardiac bypass proc
+      - Atrial fibrillation
+      - Hypertension
+      - Chest Pain
+      - Do you have a pacemaker or defibrillator implanted?
+      - Have you had a heart valve replacement or repair?
+      - Stroke
+      - Diabetes
+      - Post-traumatic stress disorder (PTSD)
+      - Thyroid disease
+      - Vitamin B12 deficiency
+      - Insomnia
+      - OCD
+      - Developmental neuropsychiatric disorders (e.g., autism spectrum disorder [ASD], attention-deficit hyperactivity disorder [ADHD], dyslexia)
+        
 
-### Neurological History:
-Active: recently, Inactive: past
-  -	"Have you ever had a head injury with loss of consciousness?" (Yes (Active)/ Yes (Inactive)/ No)
-  -	"Have you ever had seizures?" (Yes (Active)/ Yes (Inactive)/ No)
-  -	"Do you have any sleep disorders?" (Sleep Apnea/ REM/ Insomnia/ Any other/ No)
+## Section 3: Cognitive Function Questions
 
-### Other Medical Conditions:
-Do you suffer any of the following (check boxes):
-  -	Atrial fibrillation
-  -	Congestive heart failure
-  -	Angina
-  -	Pacemaker
-  -	Cardiac bypass
-  -	B12 deficiency
-  -	Thyroid disease
-  -	High cholesterol
-
-## Section 3: Cognitive Concerns (Self-Report)
-
-Use a scale: Never/ Rarely/ Sometimes/ Often/ Always
-### Memory Questions:
-  -	"How often do you forget recent conversations or events?" 
-  -	"Do you have trouble remembering names of people you've recently met?" 
+### Memory:
+  -	Do you usually forget conversations or misplace things more than usual?
+### Orientation:
+  - Do you ever feel confused about the current day or month, or find yourself getting lost in places that used to be familiar?
 ### Executive Function:
-  - "Do you have trouble following complex instructions?" 
+  - Have you had any difficulty managing tasks like paying bills, cooking meals, shopping, or remembering how to use common household items?
 ### Language/Communication:
-  -	"Do have trouble finding the right words when speaking?" 
-### Physical Activities:
-  -	"Do you have trouble in performing household chores on your own?”
-### Personal Care:
-  -	“Do you require assistance in personal care including dressing, hygiene etc.”
+  -	Do you notice hesitations in your speech, trouble finding the right words, or using incorrect words without realizing it?
+### Visuospatial Function:
+  -	Do you struggle with understanding what you see or navigating spaces, even ones you know well?
+### Attention and Concentration
+  -	Do you find it hard to focus on tasks or feel that you're easily distracted?
+### Fluctuating Cognition:
+  - Do you experience periods where your alertness or ability to focus seems to vary significantly — for example, zoning out or having jumbled thoughts at times? If yes, then at what age did it begin? (dropdown)
+
 
 ## Section 4: Functional Activities (Daily Living)
 
