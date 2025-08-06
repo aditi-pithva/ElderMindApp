@@ -54,47 +54,52 @@
   - Do you experience periods where your alertness or ability to focus seems to vary significantly — for example, zoning out or having jumbled thoughts at times? If yes, then at what age did it begin? (dropdown)
 
 
-## Section 4: Functional Activities (Daily Living)
+## Section 4: Behavioral & Psychological Symptoms
 
-Use a scale: No difficulty / Some difficulty / Significant difficulty / Cannot do
-  -	"Managing household finances and budgets"
-  -	"Shopping for groceries independently"
-  -	"Preparing meals"
-  -	"Using kitchen appliances safely"
-  -	"Remembering appointments and important dates"
-  -	"Taking medications as prescribed"
-  -	"Using telephone or technology devices"
-  -	"Driving or using public transportation"
-  -	“Playing games of skills like chess”
+### Apathy / Withdrawal
+  - Have you lost interest in your usual activities or found it harder to start conversations or interact with family or friends?
 
-## Section 5: Behavioral and Mood Changes
+### Depressed Mood
+  - Have you felt sad, hopeless, or lost interest in nearly everything for more than two weeks at a time?
 
-### Recent Changes (Past 6 months):
-If yes in any question, then state its severity from 1-3 (1being mild)
-  -	"Have you experienced increased confusion or disorientation?" (Yes/No)
-  -	"Have others noticed changes in your personality?" (Yes/No)
-  -	"Have you felt more anxious or worried than usual?" (Yes/No)
-  -	"Have you felt sad or depressed?" (Yes/No)
-  -	"Have you lost interest in activities you used to enjoy?" (Yes/No)
-  -	"Have you noticed any change in your diet?" (Yes/No)
-  -	"Do you have trouble sleeping?" (Yes/No)
+### Psychosis – Hallucinations
+  - Have you ever seen things or heard voices that weren’t really there?
 
-## Section 6: Physical Symptoms
+### Disinhibition
+  - Have you found yourself saying or doing things in public that others might consider inappropriate, like using strong language or neglecting personal hygiene?
 
-### Motor Function:
-  -	"Have you noticed changes in your walking or balance?" (Yes/No)
-  -	"Have you had any falls in the past year?" (Yes/No)
-  -	"Do you have tremors or shaking?" (Yes/No)
-  -	"Have you noticed slowness in your movements?" (Yes/No)
+### Irritability
+  - Do you find yourself getting upset easily or reacting strongly by yelling at family members or others around you?
 
-## Section 7: Family History
-  -	"Has anyone in your immediate family been diagnosed with Cognitive Impairment?" (Yes/No)
-  -	"Has anyone in your family been diagnosed with AD due to a known genetic mutation?" (Yes/No)
+### Agitation
+  - Have you felt restless or found it hard to sit still, or have you had moments of shouting, hitting, or kicking?
 
-## Section 8: Informant Questions (If Available)
+### Personality Change
+  - Have you noticed changes in your personality, like collecting unusual items, dressing differently, acting suspicious, or not considering others’ feelings?
 
-For family member/caregiver to answer:
-  -	"Have you noticed memory problems in this person?" (Yes/ No)
-  -	"Have you observed changes in their judgment or decision-making?" (Yes/No)
-  -	"Have they had difficulty with familiar tasks?" (Yes/No)
-  -	"Have you noticed personality or behavior changes?" (Yes/No)
+### REM Sleep Behavior Disorder
+  - Do you ever act out your dreams while sleeping — like punching, shouting, or flailing your arms? If yes, then at what age did it begin?  (dropdown)
+
+### Anxiety
+  - Do you often feel nervous or find yourself worrying a lot, or show signs like sighing frequently or wringing your hands?\
+
+
+## Section 5: Motor and Movement Symptoms
+
+### Gait Disorder
+  - Have you noticed any changes in how you walk, like feeling unsteady, dragging a foot, shuffling, or swinging your arms less — not related to arthritis or an injury?
+
+### Falls
+  - Have you been falling more often than you used to, without a clear cause like tripping or slipping?
+
+### Tremor
+  - Have you experienced shaking or tremors in your hands, arms, legs, head, or even your mouth or tongue — especially when you're resting?
+
+### Slowness
+  - Do you feel like you’ve been moving, walking, or writing more slowly than usual, or has your facial expression become less animated or more blank?
+
+
+## Section 6: Family History<
+  - Has anyone in your immediate family been diagnosed with Cognitive Impairment?
+  - Has anyone in your family been diagnosed with AD due to a known genetic mutation?
+  - Have you been told that you have a genetic condition related to frontotemporal dementia (FTLD) in your family?
